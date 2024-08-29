@@ -40,11 +40,3 @@ const Star = ({ numStars }) => {
 
 export default Star;
 
-//if age>=65
-//age<7
-// какая скидка от возраста
-//если количечтв
-
-// const sum = (amount, price, age, isSenior =true, false) => {
-//   if(age<=7) free
-// }
