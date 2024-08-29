@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       {/* <RandomColor /> */}
-      <Star/>
+      <Star numStars={10} />
     </div>
   );
 }
